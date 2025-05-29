@@ -27,7 +27,7 @@
 ---
 
 ## 🚧 Roadmap
-- Implement tracking for in-game items (e.g., Burner Phone, Magnifying Glass).
+- Implement inverter support for easier usage
 
 - Add probability calculations for remaining shells.
 
