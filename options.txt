@@ -1,0 +1,3 @@
+L - eject LIVE round
+B - eject BLANK round
+E - EXIT
